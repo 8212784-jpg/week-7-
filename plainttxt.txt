@@ -1,0 +1,4 @@
+Runner: Fredrik
+Training for Marathon: true
+Average kilometers run per day: 5.375
+Did the runner reach the 20km weekly goal? true
